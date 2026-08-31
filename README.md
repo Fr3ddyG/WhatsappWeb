@@ -1,1 +1,1 @@
-Eu sou um DEV novato no momento, ainda estou aprendendo a linguagem e o mundo da programação isso é um dos meus primeiros projetos, aproveite!
+Esse foi um dos meus primeiros projetos em Python, um programa que envia mensagens em certa quantidade e tempo programado, para um numero definido
